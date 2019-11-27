@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wiki</string>
+    <string name="title_activity_main">Wikipedia</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_history">History</string>
+    <string name="click">click here</string>
+    <string name="search">Search</string>
+
+    <string name="search_wikipedia">Search Wikipedia</string>
+    <string name="hello_world">Hello World</string>
+    <string name="clear_history">Clear</string>
+    <string name="message">Are you sure you want to clear your history</string>
+    <string name="confirm">Confirm</string>
+</resources>
